@@ -7,3 +7,7 @@ Variable pong ball launch angle depending on where the ball hits the eliptical s
 ## AI pong bot
 
 Bot behavior for this game is set to trace the location in which the pong ball comes into the bot's court and move raquet in anticipation of the player's turn.
+
+## Video demo showcasing single player mode
+https://github.com/ddssamu3l/PongGame/assets/72890797/addef49e-cfc3-4763-bee6-b9d1dd3dde9e
+
